@@ -1,5 +1,6 @@
-def name(name):
+def add(a,b):
+   
+    print(sum(a,b))
 
-    print(f"hi{name})
 
-name("abhi")
+add(2,4)
