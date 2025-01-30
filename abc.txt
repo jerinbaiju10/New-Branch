@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 def add(a,b):
    
     print(sum(a,b))
 
+=======
+im branch 1
+hello hello
+ifydgfjw
+wjfdvwjdjwh
+wfdbwfvw
+>>>>>>> branch1
